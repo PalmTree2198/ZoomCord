@@ -1,5 +1,5 @@
 # ZoomCord
-* Google Meet / Zoom / Discord inspired clone
+* Zoom and Discord inspired clone.
 * A web application for Video Meeting and Realtime Text Chat.
 * Powered by Node.js, Express, PeerJs and Socket.io.
 
@@ -11,7 +11,7 @@
 - [x] 'User is typing...'
 - [ ] Limit number of users per room
 
-## Usage
+## Setup and Usage
 ```
 npm install
 npm run dev

@@ -1,13 +1,13 @@
 # ZoomCord
 Google Meet / Zoom / Discord clone
 
-A web application for video meeting + realtime text chat.
-Developed with Node.js, Express, Peer.js and Socket.io.
+A web application for Video Meeting and Realtime Text Chat.
+Powered by Node.js, Express, PeerJs and Socket.io.
 
 ## Features
-- [x] Join and leave room
-- [x] Group video meeting
-- [x] Group text chat
+- [x] Join and Leave Room
+- [x] Group Video Meeting
+- [x] Group Text Chat
 - [x] Unique username checking
 - [x] 'User is typing...'
 - [ ] Limit number of users per room
